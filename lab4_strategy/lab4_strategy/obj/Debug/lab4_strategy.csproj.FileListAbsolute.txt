@@ -1,0 +1,7 @@
+C:\Users\4koa\source\repos\lab4_strategy\lab4_strategy\bin\Debug\lab4_strategy.exe.config
+C:\Users\4koa\source\repos\lab4_strategy\lab4_strategy\bin\Debug\lab4_strategy.exe
+C:\Users\4koa\source\repos\lab4_strategy\lab4_strategy\bin\Debug\lab4_strategy.pdb
+C:\Users\4koa\source\repos\lab4_strategy\lab4_strategy\obj\Debug\lab4_strategy.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\lab4_strategy\lab4_strategy\obj\Debug\lab4_strategy.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\lab4_strategy\lab4_strategy\obj\Debug\lab4_strategy.exe
+C:\Users\4koa\source\repos\lab4_strategy\lab4_strategy\obj\Debug\lab4_strategy.pdb

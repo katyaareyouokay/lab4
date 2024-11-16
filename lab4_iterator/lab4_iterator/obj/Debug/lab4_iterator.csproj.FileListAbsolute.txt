@@ -1,0 +1,7 @@
+C:\Users\4koa\source\repos\lab4_iterator\lab4_iterator\bin\Debug\lab4_iterator.exe.config
+C:\Users\4koa\source\repos\lab4_iterator\lab4_iterator\bin\Debug\lab4_iterator.exe
+C:\Users\4koa\source\repos\lab4_iterator\lab4_iterator\bin\Debug\lab4_iterator.pdb
+C:\Users\4koa\source\repos\lab4_iterator\lab4_iterator\obj\Debug\lab4_iterator.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\lab4_iterator\lab4_iterator\obj\Debug\lab4_iterator.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\lab4_iterator\lab4_iterator\obj\Debug\lab4_iterator.exe
+C:\Users\4koa\source\repos\lab4_iterator\lab4_iterator\obj\Debug\lab4_iterator.pdb

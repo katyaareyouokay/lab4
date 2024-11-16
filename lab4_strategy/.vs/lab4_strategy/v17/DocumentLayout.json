@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|c:\\users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|solutionrelative:lab4_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|c:\\users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|solutionrelative:lab4_strategy\\musicplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|c:\\users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\popmusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|solutionrelative:lab4_strategy\\popmusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|c:\\users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\indiemusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|solutionrelative:lab4_strategy\\indiemusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|c:\\users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\hiphopmusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|solutionrelative:lab4_strategy\\hiphopmusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|c:\\users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\imusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12697B88-39D7-4C96-B5C0-7A8F71E58F98}|lab4_strategy\\lab4_strategy.csproj|solutionrelative:lab4_strategy\\imusicstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndieMusicStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\IndieMusicStrategy.cs",
+              "RelativeDocumentMoniker": "lab4_strategy\\IndieMusicStrategy.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\IndieMusicStrategy.cs",
+              "RelativeToolTip": "lab4_strategy\\IndieMusicStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:24:10.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HipHopMusicStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\HipHopMusicStrategy.cs",
+              "RelativeDocumentMoniker": "lab4_strategy\\HipHopMusicStrategy.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\HipHopMusicStrategy.cs",
+              "RelativeToolTip": "lab4_strategy\\HipHopMusicStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:20:02.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\Program.cs",
+              "RelativeDocumentMoniker": "lab4_strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\Program.cs",
+              "RelativeToolTip": "lab4_strategy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:09:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PopMusicStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\PopMusicStrategy.cs",
+              "RelativeDocumentMoniker": "lab4_strategy\\PopMusicStrategy.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\PopMusicStrategy.cs",
+              "RelativeToolTip": "lab4_strategy\\PopMusicStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:25:48.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\MusicPlayer.cs",
+              "RelativeDocumentMoniker": "lab4_strategy\\MusicPlayer.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\MusicPlayer.cs",
+              "RelativeToolTip": "lab4_strategy\\MusicPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:29:02.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMusicStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\IMusicStrategy.cs",
+              "RelativeDocumentMoniker": "lab4_strategy\\IMusicStrategy.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_strategy\\lab4_strategy\\IMusicStrategy.cs",
+              "RelativeToolTip": "lab4_strategy\\IMusicStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:19:04.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

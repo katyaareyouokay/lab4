@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|c:\\users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|solutionrelative:lab4_responsibility_chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|c:\\users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\eyeproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|solutionrelative:lab4_responsibility_chain\\eyeproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|c:\\users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\lipproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|solutionrelative:lab4_responsibility_chain\\lipproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|c:\\users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\faceproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|solutionrelative:lab4_responsibility_chain\\faceproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|c:\\users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\i\u043Dandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|solutionrelative:lab4_responsibility_chain\\i\u043Dandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|c:\\users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|solutionrelative:lab4_responsibility_chain\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|c:\\users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0999A6B4-FB55-420A-A578-8A7FD9414468}|lab4_responsibility_chain\\lab4_responsibility_chain.csproj|solutionrelative:lab4_responsibility_chain\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EyeProducthandler.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\EyeProducthandler.cs",
+              "RelativeDocumentMoniker": "lab4_responsibility_chain\\EyeProducthandler.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\EyeProducthandler.cs",
+              "RelativeToolTip": "lab4_responsibility_chain\\EyeProducthandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:22:29.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LipProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\LipProductHandler.cs",
+              "RelativeDocumentMoniker": "lab4_responsibility_chain\\LipProductHandler.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\LipProductHandler.cs",
+              "RelativeToolTip": "lab4_responsibility_chain\\LipProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:21:00.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\Program.cs",
+              "RelativeDocumentMoniker": "lab4_responsibility_chain\\Program.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\Program.cs",
+              "RelativeToolTip": "lab4_responsibility_chain\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:13:44.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FaceProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\FaceProductHandler.cs",
+              "RelativeDocumentMoniker": "lab4_responsibility_chain\\FaceProductHandler.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\FaceProductHandler.cs",
+              "RelativeToolTip": "lab4_responsibility_chain\\FaceProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:20:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "lab4_responsibility_chain\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\ProductCategory.cs",
+              "RelativeToolTip": "lab4_responsibility_chain\\ProductCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:19:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "lab4_responsibility_chain\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\ProductRequest.cs",
+              "RelativeToolTip": "lab4_responsibility_chain\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:18:51.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "I\u041Dandler.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\I\u041Dandler.cs",
+              "RelativeDocumentMoniker": "lab4_responsibility_chain\\I\u041Dandler.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab4_responsibility_chain\\lab4_responsibility_chain\\I\u041Dandler.cs",
+              "RelativeToolTip": "lab4_responsibility_chain\\I\u041Dandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:14:32.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
